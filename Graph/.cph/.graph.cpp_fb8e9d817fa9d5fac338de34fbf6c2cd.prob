@@ -1,0 +1,1 @@
+{"name":"Local: graph","url":"d:\\Pranto\\study\\2-1\\Data Structures Lab\\Graph\\graph.cpp","tests":[{"id":1637804507517,"input":"5\n4\n1 2\n2 3\n3 4\n4 5\n1 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Pranto\\study\\2-1\\Data Structures Lab\\Graph\\graph.cpp","group":"local","local":true}
